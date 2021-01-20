@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+![FixitAnasayfa](https://user-images.githubusercontent.com/48158126/105205528-697c4900-5b56-11eb-8736-84a7b8b4f0da.PNG)
