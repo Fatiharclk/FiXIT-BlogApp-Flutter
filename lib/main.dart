@@ -1,6 +1,6 @@
-import 'package:camp/screen/splashscrenn.dart';
+import 'package:camp/screen/Home.dart';
 import 'package:flutter/material.dart';
-import 'screen/splashscrenn.dart';
+import 'screen/Home.dart';
 
 void main() {
   runApp(new MaterialApp(
