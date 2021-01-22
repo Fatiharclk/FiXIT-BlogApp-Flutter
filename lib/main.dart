@@ -5,6 +5,6 @@ import 'screen/Home.dart';
 void main() {
   runApp(new MaterialApp(
     title: 'Merhaba',
-    home: Splash(),
+    home: Home(),
   ));
 }
